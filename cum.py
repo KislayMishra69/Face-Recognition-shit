@@ -3,7 +3,6 @@ Created by: Yogi/Vegeta2007k
 '''
 
 import numpy as np
-import pywhatkit
 import face_recognition as fr
 import pyautogui
 import webbrowser
