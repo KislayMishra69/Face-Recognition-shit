@@ -7,3 +7,8 @@ An AI which uses the face recognition module to detect and recognise faces, and 
 So for instance, you put your father's face as data, which would close he current tab and open some educational video. Now how cool is that?!
 
 
+
+
+Requirement:
+python 3.7 --
+
