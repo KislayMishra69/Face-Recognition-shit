@@ -14,7 +14,7 @@ import cv2
 CumCapture = cv2.VideoCapture(0)
 
 # Feeding data about the people
-pitaji_image = fr.load_image_file("pitaji/pic#1.png")
+pitaji_image = fr.load_image_file("pitaji.png")
 pitaji_face_encoding = fr.face_encodings(pitaji_image)[0]
 
 mataji_image = fr.load_image_file("Mummy.png")
