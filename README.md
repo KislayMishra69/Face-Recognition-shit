@@ -11,4 +11,4 @@ So for instance, you put your father's face as data, which would close he curren
 
 Requirement:
 python 3.7 --
-
+virtual environment --
